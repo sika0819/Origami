@@ -1,0 +1,2 @@
+C:\Users\Handsonlab\Desktop\Unity Files\HolographicAcademy-Holograms-101\HolographicAcademy-Holograms-101\Origami\APP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Handsonlab\Desktop\Unity Files\HolographicAcademy-Holograms-101\HolographicAcademy-Holograms-101\Origami\APP\Origami\Origami.csproj;x86
