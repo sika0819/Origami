@@ -23,7 +23,7 @@ public class FindPath : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         path[0] = new Vector3(myPos.transform.position.x, 0, myPos.transform.position.z);
-        path[1] = new Vector3(target.transform.position.x, 0, target.transform.position.z);
+        path[1] = target.transform.position;
         linedrawer.SetPositions(path);
         distance =Mathf.Abs(Vector3.Distance(myPos.transform.position, target.transform.position));
         size = new Vector2(Mathf.CeilToInt(distance*10),1);
